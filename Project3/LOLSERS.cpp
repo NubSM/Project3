@@ -3,8 +3,8 @@
 
 LOLSERS::LOLSERS()
 {
-	LOL = 50;
-	LOLL = false;
+	LOL = 5000000;
+	LOLL = true;
 }
 
 
